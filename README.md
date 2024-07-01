@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amal Sam Varghese
 =========================================================================================================================================
 
-MCA GRADUATE,Learning Python FullStack
+MCA GRADUATE,SOFTWARE ENGINEER
 --------------------------------------
 
 I Love Programming
 
 * 🌍  I'm based in Kottayam,Kerala
 * ✉️  You can contact me at [amalsamvarghese@gmail.com](mailto:amalsamvarghese@gmail.com)
-* 🧠  I'm learning Python FullStack
+* 🧠  Working as Software Test Engineer at UST Global
 
 ### Skills
 
