@@ -42,6 +42,13 @@ Java • Selenium • API Testing • CI/CD • AWS
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="AWS" width="40" height="40"/>
 </a>
 
+#LeetCode
+
+### 🏆 LeetCode Stats  
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/amalsamvarghese?theme=dark&font=Karma&ext=contest)
+[![LeetCode user amalsamvarghese](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=leetcode&label=LeetCode&query=solved&url=https://leetcode-badge.vercel.app/api/users/amalsamvarghese&color=yellow)](https://leetcode.com/amalsamvarghese/)
+
 ---
 
 ### 🌐 Socials  
