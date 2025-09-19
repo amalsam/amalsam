@@ -49,7 +49,7 @@ Java • Selenium • API Testing • CI/CD • AWS
 ![LeetCode Stats](https://leetcard.jacoblin.cool/amalsamvarghese?theme=dark&font=Karma&ext=contest)
 [![LeetCode user amalsamvarghese](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=leetcode&label=LeetCode&query=solved&url=https://leetcode-badge.vercel.app/api/users/amalsamvarghese&color=yellow)](https://leetcode.com/amalsamvarghese/)
 
-![snake gif](https://github.com/amalsam/amalsam/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
